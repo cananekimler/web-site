@@ -1,0 +1,73 @@
+@charset"utf-8";
+
+
+/* Webfont: LatoLatin-Black */@font-face {
+    font-family: 'LatoLatin-Black';
+    src: url('../fonts/LatoLatin-Black/LatoLatin-Black.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/LatoLatin-Black/LatoLatin-Blackd41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/LatoLatin-Black/LatoLatin-Black.woff2') format('woff2'), /* Modern Browsers */
+         url('../fonts/LatoLatin-Black/LatoLatin-Black.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/LatoLatin-Black/LatoLatin-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+/* Webfont: LatoLatin-Bold */@font-face {
+    font-family: 'LatoLatin-Bold';
+    src: url('../fonts/LatoLatin-Bold/LatoLatin-Bold.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/LatoLatin-Bold/LatoLatin-Boldd41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/LatoLatin-Bold/LatoLatin-Bold.woff2') format('woff2'), /* Modern Browsers */
+         url('../fonts/LatoLatin-Bold/LatoLatin-Bold.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/LatoLatin-Bold/LatoLatin-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+/* Webfont: LatoLatin-Regular */@font-face {
+    font-family: 'LatoLatin-Regular';
+    src: url('../fonts/LatoLatin-Regular/LatoLatin-Regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/LatoLatin-Regular/LatoLatin-Regulard41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/LatoLatin-Regular/LatoLatin-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('../fonts/LatoLatin-Regular/LatoLatin-Regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/LatoLatin-Regular/LatoLatin-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Fira Sans Medium*/@font-face {
+    font-family: 'FiraSans-Medium';
+    src: url('../fonts/FiraSans-Medium/FiraSans-Medium.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/FiraSans-Medium/FiraSans-Mediumd41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/FiraSans-Medium/FiraSans-Medium.woff2') format('woff2'), /* Modern Browsers */
+         url('../fonts/FiraSans-Medium/FiraSans-Medium.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/FiraSans-Medium/FiraSans-Medium.ttf') format('truetype'),
+         url('../fonts/FiraSans-Medium/FiraSans-Medium.svg#FiraSans-Medium') format('svg');
+    font-weight: 500;
+	font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+/* Webfont: Fira Sans Bold */@font-face {
+    font-family: 'FiraSans-Bold';
+    src: url('../fonts/FiraSans-Bold/FiraSans-Bold.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/FiraSans-Bold/FiraSans-Boldd41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/FiraSans-Bold/FiraSans-Bold.otf') format('opentype'), /* Modern Browsers */
+         url('../fonts/FiraSans-Bold/FiraSans-Bold.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/FiraSans-Bold/FiraSans-Bold.ttf') format('truetype'),
+         url('../fonts/FiraSans-Bold/FiraSans-Bold.svg#FiraSans-Bold') format('svg');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+/* Webfont: Fira Sans Extra Bold */@font-face {
+    font-family: 'FiraSans-ExtraBold';
+    src: url('../fonts/FiraSans-ExtraBold/FiraSans-ExtraBold.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/FiraSans-ExtraBold/FiraSans-ExtraBoldd41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/FiraSans-ExtraBold/FiraSans-ExtraBold.otf') format('opentype'), /* Modern Browsers */
+         url('../fonts/FiraSans-ExtraBold/FiraSans-ExtraBold.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/FiraSans-ExtraBold/FiraSans-ExtraBold.ttf') format('truetype'),
+         url('../fonts/FiraSans-ExtraBold/FiraSans-ExtraBold.svg#FiraSans-ExtraBold') format('svg');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
